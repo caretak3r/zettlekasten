@@ -1,6 +1,6 @@
 # c2 operations kubernetes
 
-![[c2-diagram-kubernetes.png]]
+![c2-diagram-kubernetes.png](_images/c2-diagram-kubernetes.png)
 
 - [[c2]] frameworks
 	- merlin/https2
@@ -8,8 +8,9 @@
 	- cobalt strike
 
 - [[containers]]
+
+![kube-defenses](_images/kube-defenses.png)
 - [[adversaries]] strategies
-	![[Pasted image.png]]
 	- Actors may leverage [[serverless]] resources like [[lambda]] functions in AWS.
 		- Imagine an adversary or [[warden]] "poisoning the well" and feeding manipulated alerts or severity warnings to chatops.
 			- Operators may make "break glass" changes or act on these alerts by facilitating some action (oAuth sign-in requests), allowing an adversary to leverage changes for some purpose.
