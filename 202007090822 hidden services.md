@@ -1,4 +1,4 @@
-# hidden-services
+# hidden services
 
 > **tags**: #torify #hdt #tor #HSDir #darkweb
 

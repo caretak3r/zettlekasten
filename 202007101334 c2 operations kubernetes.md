@@ -1,5 +1,9 @@
 # c2 operations kubernetes
 
+- tags: #c2 #kubernetes #redteam #attacks #defense
+- source: `none`
+---
+
 ![c2-diagram-kubernetes.png](_images/c2-diagram-kubernetes.png)
 
 - [[c2]] frameworks
