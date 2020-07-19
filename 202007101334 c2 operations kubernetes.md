@@ -20,7 +20,7 @@
 			- Operators may make "break glass" changes or act on these alerts by facilitating some action (oAuth sign-in requests), allowing an adversary to leverage changes for some purpose.
 		- An actor may establish a TCP [[reverse shell]] for the purpose of introspecting container runtimes in different clouds.
 	- [[cryptojacking malware]]
-		- Adversaries use public container registries such as Docker Hub and Quay to store and deliver malicious container images. 
+		- [[in the wild]] adversaries use public container registries such as Docker Hub and Quay to store and deliver malicious container images. 
 			- As Docker Hub is the default registry trusted by most Docker hosts
 		- These types of malware are pulled and run as containers directly on the compromised hosts. They typically just steal the CPU, memory, or networking resources.
 		- Deploy benign container images and download malicious payloads at runtime to subvert scanning/validating legitimate hosted images.
