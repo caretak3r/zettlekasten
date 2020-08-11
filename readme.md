@@ -1,10 +1,24 @@
 # Zettelkasten
-This is my dedicated and opinionated Zettelkasten, forked/modified from [foambubble/foam](https://github.com/foambubble/foam).
+
+This is my dedicated and opinionated Zettelkasten, forked/modified from [foambubble/foam](https://github.com/foambubble/foam), borrowing features from [obsidian](https://obsidian.md/features).
 
 ![](_images/2020-07-08-14-22-07.png)
 
 _Information vs. Knowledge (by @gapingvoid)_
 
+---
+## index
+* [Zettelkasten](readme.md#zettelkasten)
+  * [concepts](readme.md#concepts)
+  * [organization](readme.md#organization)
+    * [template](readme.md#template)
+    * [types](readme.md#types)
+    * [literature note](readme.md#literature-note)
+    * [permanent note](readme.md#permanent-note)
+    * [todo](readme.md#todo)
+  * [zettels](readme.md#zettels)
+
+---
 ## concepts
 Zettelkasten is German for “slip-box”. It originates from German sociologist Niklas Luhmann.
 
@@ -32,6 +46,7 @@ title of some research or notes
     - [[linkageToAnotherZettel]]
         - metadata
 references
+backlinks
 ```
 
 ### types
@@ -58,3 +73,10 @@ To create a permanent note, surround the string in `[[ ]]` brackets, with some m
 ### todo
 Keeping track of loose-tasks or ideas for the project. This `- [ ]` can be added anywhere you need a checkbox.
 - [ ] if you need a checkbox like this
+
+---
+
+## zettels
+- [ ] todo - add index of zettels per commit
+
+- (email recon and xss)[]
