@@ -1,8 +1,8 @@
 # hidden services
 
-> **tags**: #torify #hdt #tor #HSDir #darkweb
-
-> **source**: _https://svn-archive.torproject.org/svn/projects/presentations/2013-11-t3am-tor-ecosystem.pdf_
+- **tags**: #torify #hdt #tor #HSDir #darkweb
+- **sources**:
+	- https://svn-archive.torproject.org/svn/projects/presentations/2013-11-t3am-tor-ecosystem.pdf_
 ---
 ## background
 For a user to access a hidden service, a hidden service descriptor (hdt) must be retrieved, which contains lists of intro nodes and a descriptor ID.
@@ -73,6 +73,8 @@ _btc scams or possible c2-payment nodes_
 ![](_images/VILE.png)
 
 _it's ~~OPEN~~ season on hunting ~~STEGO~~sauruses into extinction_  :eyes:
+
+![](_images/Screenshot at Jul 23 21-23-15.png)
 
 # references:
 - https://www.hyperiongray.com/dark-web-map [[map]]

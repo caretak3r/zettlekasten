@@ -1,8 +1,8 @@
 # email-recon-xss
 
-> **tags**: #nahamsec #email #recon #xss #blind #attacks
-
-> **source**: _none_
+- **tags**: #nahamsec #email #recon #xss #blind #attacks
+- **sources**: 
+	- @nahamsec-twitch.tv
 ---
 - [[email recon]]
 

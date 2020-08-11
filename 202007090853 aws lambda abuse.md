@@ -1,7 +1,8 @@
 # aws-lambda-abuse
 
 - **tags**:  #aws #lambda #serverless #attacks
-- **source**:  https://luminousmen.com/post/aws-lambda-abuse
+- **sources**:
+	- https://luminousmen.com/post/aws-lambda-abuse
 
 ![2020-07-09-09-24-02.png](_images/2020-07-09-09-24-02.png)
 

@@ -1,7 +1,8 @@
 # c2 operations kubernetes
 
-- tags: #c2 #kubernetes #redteam #attacks #defense
-- source: `none`
+- **tags**: #c2 #kubernetes #redteam #attacks #defense
+- **sources**: 
+	- _none_
 ---
 
 ![c2-diagram-kubernetes.png](_images/c2-diagram-kubernetes.png)
